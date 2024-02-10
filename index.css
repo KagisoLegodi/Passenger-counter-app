@@ -1,5 +1,5 @@
 body {
-    background-image: url("yarn.jpeg");
+    background-image: url("https://media.gardenista.com/wp-content/uploads/2016/01/iris-florentina-old-house-gardens-1.jpg");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    background: white;
+    background: rgba(69, 76, 68, 0.592);
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
@@ -23,6 +23,7 @@ h2 {
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 20px;
+    color: goldenrod;
 }
 
 button {
